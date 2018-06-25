@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#2779ff</color>
+    <color name="colorBackgroundLight">#eaf0ff</color>
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorTextSecondary">#757575</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorTextPrimaryBox">#ffffff</color>
+    <color name="colorTextSecondaryeBox">#f2f2f2</color>
+    <color name="colorGradientStart">#612f92</color>
+    <color name="colorfabTool1">#FF5252</color>
+    <color name="colorProgressBar">#38ef7d</color>
+    <color name="colorfabTool2">#00796B</color>
+</resources>

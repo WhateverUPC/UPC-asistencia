@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_university"
+        android:title="@string/title_home"
+        />
+
+    <item
+        android:id="@+id/navigation_attendance"
+        android:icon="@drawable/school_bell"
+        android:title="@string/title_attendance" />
+
+    <item
+        android:id="@+id/navigation_new_qr"
+        android:icon="@drawable/write"
+        android:title="@string/title_new_qr" />
+
+</menu>

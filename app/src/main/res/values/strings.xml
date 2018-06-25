@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SDA Asistencia</string>
+    <string name="title_activity_main">SDA Asistencia</string>
+    <string name="title_home"><b>Inicio</b></string>
+    <string name="title_attendance"><b>Asistencia</b></string>
+    <string name="title_new_qr"><b>Nuevo QR</b></string>
+    <string name="title_activity_qr_attendance">Asistencia</string>
+    <string name="title_attendance_large"><b><h1>Asistencia</h1></b></string>
+    <string name="title_new_qr_large"><b><h1>Nuevo QR</h1></b></string>
+    <string name="title_home_large"><b><h1>Inicio</h1></b></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_verify_qr">Hubo un error, verifique el código QR</string>
+    <string name="error_qr_not_valid">El código QR no es válido</string>
+    <string name="error_try_again">Hubo un error, intente nuevamente</string>
+</resources>
